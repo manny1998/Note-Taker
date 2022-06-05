@@ -3,3 +3,5 @@ A note taker application can be quite useful for users across different professi
 
 Improvements
 Getting the delete function on the note taker to work. 
+<a href='https://notetaker-bootcamphw.herokuapp.com/'>Link</a>
+<img src='./public/assets/images/test.jpg'>
